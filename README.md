@@ -1,1 +1,3 @@
-# penguin-fashion-responsive
+# Penguin Fashion
+
+## A responsive landing page using Bootstrap
